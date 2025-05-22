@@ -1,0 +1,31 @@
+{
+  "name": "smlp-project",
+  "version": "0.1.0",
+  "description": "Sierpinski Matrix Ledger Protocol (SMLP) implementation",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/utils/index.js",
+    "test": "vitest"
+  },
+  "keywords": [
+    "smlp",
+    "cryptocurrency",
+    "fractal",
+    "blockchain",
+    "ledger"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@types/blessed": "^0.1.14",
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "blessed": "^0.1.81"
+  }
+}
