@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "lib": ["ES2020"],
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["node_modules/*", "SMLP_Project/src/*"]
+    },
+    "outDir": "dist",
+    "rootDir": "SMLP_Project/src",
+    "resolveJsonModule": true,
+    "allowJs": true
+  },
+  "include": ["SMLP_Project/src", "SMLP_Project/tests"],
+  "exclude": ["node_modules", "dist"]
+}
