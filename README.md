@@ -1,8 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
-
 # Sierpinski Matrix Ledger Protocol (SMLP)
 
 ## Project Overview
