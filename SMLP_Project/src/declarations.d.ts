@@ -1,0 +1,11 @@
+declare module 'genesisTriangle';
+declare module 'quantumTriangleStates';
+declare module 'sierpinskiMiningProtocol';
+declare module 'tripleBurnProtocol';
+declare module 'ancestralDividendSystem';
+declare module 'geometricConsensus';
+declare module 'selfOrganizingEconomy';
+declare module 'fractalSmartContracts';
+declare module 'oracleTriangleSystem';
+declare module 'networkGovernance';
+declare module 'sierpinskiVirtualMachine';
